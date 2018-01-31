@@ -47,6 +47,7 @@ h2 {
   font-size: 24px;
   padding-left: 5px;
 }
+
 .page-links {
   color: gray;
   background-color: white;
@@ -63,7 +64,7 @@ h2 {
   margin-left: 0;
   margin-top: 40px;
   margin-bottom: 40px;
-  width: 600px;
+  width: 620px;
   position: relative;
   text-align: left;
   padding: 20px;
@@ -72,11 +73,11 @@ h2 {
 .accounts {
   color: teal;
   background-color: white;
-  width: 240px;
+  width: 200px;
   float: right;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 30px;
+  font-family: "Georgia", Times, Times New Roman, serif;
+  padding: 30px;
 }
 
 #connect-with-me {
@@ -84,7 +85,7 @@ h2 {
   text-align: center;
   background-color: white;
   margin-bottom: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   border-bottom-style: solid;
   border-bottom-color: lightgray;
   border-bottom-width: 1px;
@@ -114,6 +115,6 @@ footer {
 }
 
 .account-pages img {
-  width: 50px;
+  width: 55px;
   padding: 2px;
 }
