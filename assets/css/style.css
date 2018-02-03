@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  margin-bottom: 30px;
+  margin-bottom: 35px;
   padding: 0;
   border: 0;
   font-size: 100%;
@@ -197,76 +197,69 @@ input[type="submit"]:hover {
 
 .portfolio img {
   float: left;
-  padding-right: 20px;
-  padding-left: 5px;
-  padding-bottom: 20px;
+  padding: 15px;
 }
 
 .dogs img {
-  width: 285px;
+  width: 45%;
 }
 
 #dog-1 {
   position: absolute;
-  top: 235px;
-  left: 20px;
+  top: 245px;
+  left: 34px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
   background-color: teal;
-  width: 285px;
-  height: 20px;
+  width: 280px;
   text-align: center;
 }
 
 #dog-2 {
   position: absolute;
-  top: 235px;
-  left: 330px;
+  top: 245px;
+  left: 343px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
   background-color: teal;
-  width: 290px;
-  height: 20px;
+  width: 280px;
   text-align: center;
 }
 
 #dog-3 {
   position: absolute;
-  top: 450px;
-  left: 20px;
+  top: 461px;
+  left: 34px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
   background-color: teal;
-  width: 290px;
-  height: 20px;
+  width: 280px;
   text-align: center;
 }
 
 #dog-4 {
   position: absolute;
-  top: 450px;
-  left: 330px;
+  top: 461px;
+  left: 343px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
   background-color: teal;
-  width: 290px;
-  height: 20px;
+  width: 280px;
   text-align: center;
 }
 
 #dog-5 {
   position: absolute;
-  top: 660px;
-  left: 20px;
+  top: 677px;
+  left: 34px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
   background-color: teal;
-  width: 290px;
-  height: 20px;
+  width: 280px;
   text-align: center;
 }
